@@ -1,3 +1,3 @@
-<b>Full code<b/>: Code_final<br/>
-<b>Jupyter Notebook file used for Data manipulation<b/> : Notebook<br/>
-<b>The final output pdf generated from the Code_final file<b/> : Output Doc
+Full code: Code_final<br/>
+Jupyter Notebook file used for Data manipulation< :Notebook<br/>
+The final output pdf generated from the Code_final file: Output Doc
